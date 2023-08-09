@@ -9,6 +9,7 @@ The defined test cases are checking the correct working of the following FA1.2 e
 - approve
 - getAllowance 
 - getBalance
+- getTotalSupply
 
 ## TODO / ideas / improvements:
 - add/change test cases to support more complex scenarios
