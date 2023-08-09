@@ -40,6 +40,9 @@ All required tokens have to be given (minted / transferred) to the admin account
 ### Execution
 npm test
 
+### Example smart contract
+The contract used to run tests, ManagedLedger.tz, is taken as an example to run the tests. It is included in the TZIP-07 proposal. Feel free to substitute it with any other contract to check its compatibility with the FA1.2 standard.
+
 ## Contribution
 Everyone is invited to contribute to the FA1.2 smart contract testing suite. We are eager to see new ideas, read new test cases and foster the development of the suite by everyone in the Tezos ecosystem.
 
