@@ -2,7 +2,7 @@
   "name": "tezosfacontractchecker",
   "version": "1.0.0",
   "description": "",
-  "main": "./test/fa2_test.js",
+  "main": "./test/fa12_test.js",
   "directories": {
     "test": "test"
   },
