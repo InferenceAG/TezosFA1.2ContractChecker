@@ -32,10 +32,10 @@ The names of the accounts (admin, alice, bob, and charlie) in the default accoun
 Ensure the accounts have sufficient tez to pay for the transaction they emit.
 
 ### Configuration in env.ts
-You have to create an env.js in the root directory of the repo. An example/template file can be found here: [example_env.js](example_env.js). Please see comments in the example/template file.
+You have to create an env.js in the root directory of the repo. An example/template file can be found here: [example_env.js](example_env.js).
 
 ### Initial token distribution
-All required tokens have to be given (minted / transferred) to the admin account. See comments in file [example_env.js](example_env.js).
+All required tokens have to be given (minted / transferred) to the admin account.
 
 ### Execution
 npm test
